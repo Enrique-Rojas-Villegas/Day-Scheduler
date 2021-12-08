@@ -41,3 +41,7 @@ Steps for the JS File
 3. Created and If/else statement to change the coloring of the textarea according to the time it is.
 
 4. Finally added functionality to the save button on the right.
+
+SCREENSHOTS.
+
+![Main Page](./assets/images/main-scheduler.jpg)
