@@ -44,4 +44,4 @@ Steps for the JS File
 
 SCREENSHOTS.
 
-![Main Page](./assets/images/main-scheduler.png)
+![Main Page](./assets/images/main-scheduler.PNG)
