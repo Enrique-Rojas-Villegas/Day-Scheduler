@@ -47,4 +47,5 @@ SCREENSHOTS.
 ![Main Page](./assets/images/main-scheduler.PNG)
 
 Link to LIVE site : https://enrique-rojas-villegas.github.io/Day-Scheduler/
+
 Link to Repository: https://github.com/Enrique-Rojas-Villegas/Day-Scheduler.git
